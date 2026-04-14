@@ -72,7 +72,7 @@ const players = [
 const badgeLabels={};
 const badgeClasses={};
 const posLabels={GK:"Goleiros",ZAG:"Zagueiros",LAT:"Laterais",MED:"Meios",ATA:"Atacantes"};
-const groups={GK:{label:"Goleiros",slots:3},ZAG:{label:"Zagueiros",slots:6},LAT:{label:"Laterais",slots:4},MED:{label:"Meios-campistas",slots:6},ATA:{label:"Atacantes",slots:11}};
+const groups={GK:{label:"Goleiros",slots:3},ZAG:{label:"Zagueiros",slots:6},LAT:{label:"Laterais",slots:4},MED:{label:"Meios-campistas",slots:5},ATA:{label:"Atacantes",slots:8}};
 
 let squad=[];
 let activeFilter="ALL";
